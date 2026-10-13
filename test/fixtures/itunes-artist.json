@@ -1,0 +1,17 @@
+{
+ "resultCount": 2,
+ "results": [
+  {
+   "wrapperType": "artist",
+   "artistType": "Artist",
+   "artistName": "Bruce Springsteen",
+   "artistLinkUrl": "https://music.apple.com/us/artist/bruce-springsteen/178834?uo=4"
+  },
+  {
+   "wrapperType": "artist",
+   "artistType": "Artist",
+   "artistName": "Bruce Springsteen & The E Street Band",
+   "artistLinkUrl": "https://music.apple.com/us/artist/bruce-springsteen-the-e-street-band/1379776385?uo=4"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "resultCount": 10,
+ "results": [
+  {
+   "wrapperType": "collection",
+   "artistName": "Bruce Springsteen",
+   "collectionName": "Born In the U.S.A.",
+   "releaseDate": "1984-06-04T07:00:00Z",
+   "artistViewUrl": "https://music.apple.com/us/artist/bruce-springsteen/178834?uo=4",
+   "collectionViewUrl": "https://music.apple.com/us/album/born-in-the-u-s-a/203708420?uo=4"
+  },
+  {
+   "wrapperType": "collection",
+   "artistName": "Bruce Springsteen",
+   "collectionName": "Born to Run",
+   "releaseDate": "1975-08-25T07:00:00Z",
+   "artistViewUrl": "https://music.apple.com/us/artist/bruce-springsteen/178834?uo=4",
+   "collectionViewUrl": "https://music.apple.com/us/album/born-to-run/310730204?uo=4"
+  },
+  {
+   "wrapperType": "collection",
+   "artistName": "Bruce Springsteen",
+   "collectionName": "Darkness on the Edge of Town",
+   "releaseDate": "1978-06-02T07:00:00Z",
+   "artistViewUrl": "https://music.apple.com/us/artist/bruce-springsteen/178834?uo=4",
+   "collectionViewUrl": "https://music.apple.com/us/album/darkness-on-the-edge-of-town/400713977?uo=4"
+  },
+  {
+   "wrapperType": "collection",
+   "artistName": "Bruce Springsteen",
+   "collectionName": "Only the Strong Survive",
+   "releaseDate": "2022-11-11T08:00:00Z",
+   "artistViewUrl": "https://music.apple.com/us/artist/bruce-springsteen/178834?uo=4",
+   "collectionViewUrl": "https://music.apple.com/us/album/only-the-strong-survive/1646713825?uo=4"
+  },
+  {
+   "wrapperType": "collection",
+   "artistName": "Bruce Springsteen",
+   "collectionName": "Greatest Hits",
+   "releaseDate": "1995-02-27T08:00:00Z",
+   "artistViewUrl": "https://music.apple.com/us/artist/bruce-springsteen/178834?uo=4",
+   "collectionViewUrl": "https://music.apple.com/us/album/greatest-hits/1435854353?uo=4"
+  },
+  {
+   "wrapperType": "collection",
+   "artistName": "Bruce Springsteen",
+   "collectionName": "Letter To You",
+   "releaseDate": "2020-10-23T07:00:00Z",
+   "artistViewUrl": "https://music.apple.com/us/artist/bruce-springsteen/178834?uo=4",
+   "collectionViewUrl": "https://music.apple.com/us/album/letter-to-you/1529959055?uo=4"
+  },
+  {
+   "wrapperType": "collection",
+   "artistName": "Bruce Springsteen",
+   "collectionName": "Tunnel of Love",
+   "releaseDate": "1987-10-09T07:00:00Z",
+   "artistViewUrl": "https://music.apple.com/us/artist/bruce-springsteen/178834?uo=4",
+   "collectionViewUrl": "https://music.apple.com/us/album/tunnel-of-love/192745941?uo=4"
+  },
+  {
+   "wrapperType": "collection",
+   "artistName": "Bruce Springsteen",
+   "collectionName": "The River",
+   "releaseDate": "1980-10-17T07:00:00Z",
+   "artistViewUrl": "https://music.apple.com/us/artist/bruce-springsteen/178834?uo=4",
+   "collectionViewUrl": "https://music.apple.com/us/album/the-river/186064796?uo=4"
+  },
+  {
+   "wrapperType": "collection",
+   "artistName": "Bruce Springsteen",
+   "collectionName": "Nebraska",
+   "releaseDate": "1982-09-20T07:00:00Z",
+   "artistViewUrl": "https://music.apple.com/us/artist/bruce-springsteen/178834?uo=4",
+   "collectionViewUrl": "https://music.apple.com/us/album/nebraska/185798980?uo=4"
+  },
+  {
+   "wrapperType": "collection",
+   "artistName": "Bruce Springsteen",
+   "collectionName": "Greetings from Asbury Park, N.J.",
+   "releaseDate": "1973-01-05T08:00:00Z",
+   "artistViewUrl": "https://music.apple.com/us/artist/bruce-springsteen/178834?uo=4",
+   "collectionViewUrl": "https://music.apple.com/us/album/greetings-from-asbury-park-n-j/285119967?uo=4"
+  }
+ ]
+}

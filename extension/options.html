@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>URL to My Service options</title>
+  <link rel="stylesheet" href="page.css">
+  <style>
+    body { background: transparent; }
+    main { margin: 1rem 0; min-width: 20rem; }
+  </style>
+  <script type="module" src="options.js"></script>
+</head>
+<body>
+  <main>
+    <label><input type="checkbox" id="enabled"> Convert music links</label>
+    <label>Open links in <select id="target"></select></label>
+    <label>Storefront <input id="storefront" maxlength="2" size="3" autocomplete="off"></label>
+    <p class="hint">Two-letter country code, e.g. us, gb, de. Leave blank to use your browser's region (<span id="detected"></span>).</p>
+  </main>
+</body>
+</html>

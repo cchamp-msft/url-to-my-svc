@@ -1,0 +1,14 @@
+{
+  "name": "url-to-my-svc",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Browser extension that opens music links in your own music service.",
+  "type": "module",
+  "scripts": {
+    "test": "node --test \"test/*.test.js\"",
+    "icons": "node scripts/render-icons.mjs"
+  },
+  "devDependencies": {
+    "playwright-core": "^1.64.0"
+  }
+}
